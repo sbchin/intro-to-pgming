@@ -1,0 +1,2 @@
+first exercise: 3
+second exercise: undefined local variable or method error because x is not in scope anymore when puts x executes
