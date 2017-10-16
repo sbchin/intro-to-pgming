@@ -1,0 +1,5 @@
+names = ['bob', 'joe', 'susan', 'margaret']
+names['margaret'] = 'jody'
+
+needs to be changed:
+names[3] = 'jody'
